@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36119bee-f5d8-4bdb-973f-7da5fe3527bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/FastAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/admin/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/admin/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bookings/dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bookings/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bookings/router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bookings/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dao/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hotels/dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hotels/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hotels/rooms/dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hotels/rooms/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hotels/rooms/router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hotels/rooms/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hotels/router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/hotels/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/importer/router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/importer/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/migrations/versions/cfc44b39a661_initial_migration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pages/router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/css/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/123.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/14.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/15.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/16.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/17.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/2313.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/resized_1000_500_123.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/resized_1000_500_2313.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/resized_200_100_123.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/images/resized_200_100_2313.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tasks/celery_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tasks/email_templates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tasks/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/auth/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/auth/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/bookings/booking_successful.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/bookings/bookings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/hotels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/hotels_and_rooms/hotels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/hotels_and_rooms/rooms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/integration_tests/test_booking/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/integration_tests/test_booking/test_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/integration_tests/test_hotels/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/integration_tests/test_users/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/mock_bookings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/mock_hotels.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/mock_rooms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/mock_users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/unit_tests/test_hotels/test_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/unit_tests/test_users/test_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/users/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/users/dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/users/dependencies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/users/router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/users/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/app.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/celery.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_data_db.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PanasenkoAlexander"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PanasenkoAlexander/FastAPI_booking.git",
+    "accountId": "09bb8a25-1baa-444c-83e0-a611f8ee49fa"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2s7nlBmNlLYnou6my5qqVl1rkRK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/PycharmProjects (old)/Bots/Bot for 8 minutes/qr_code.py",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\FastAPI\app\tests" />
+      <recent name="D:\Python\FastAPI\app\users" />
+      <recent name="D:\Python\FastAPI\app\tests\integration_tests" />
+      <recent name="D:\Python\FastAPI\app\tests\unit_tests" />
+      <recent name="D:\Python\FastAPI\app\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\FastAPI\app" />
+      <recent name="D:\Python\FastAPI\app\tests\integration_tests\test_users" />
+      <recent name="D:\Python\FastAPI\app\bookings" />
+      <recent name="D:\Python\FastAPI" />
+      <recent name="D:\Python\FastAPI\курс Шумейко" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36119bee-f5d8-4bdb-973f-7da5fe3527bd" name="Changes" comment="" />
+      <created>1737815629217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737815629217</updated>
+    </task>
+    <servers />
+  </component>
+</project>
